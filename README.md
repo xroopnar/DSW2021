@@ -5,7 +5,7 @@ This repository contains the app templates used in the DSW talk.
 
 The resources in this repository were designed to be used within a notebook in Google Colab. If working locally on your own machine, follow the instructions to install Dash [here](https://dash.plotly.com/installation).
 
-Download this repository, and upload the file DSW2021_Colab_App.ipynb into [Google Colab](https://colab.research.google.com/), or open the .ipynb in a Jupyter instance. 
+Download this repository, and upload the file DSW2021_Example.ipynb into [Google Colab](https://colab.research.google.com/), or open the .ipynb in a Jupyter instance. 
 
 ### Slides:
 [DSW 2021 Building Data Apps with Dash slides](https://docs.google.com/presentation/d/1memOpjj6Fm2DECFTfkM9NmAQSPO-cVdPWK_eNs0cgeI/edit?usp=sharing)
